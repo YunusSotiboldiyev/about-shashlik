@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(227, 231, 170);
+}
+tbody, td, tr{
+    background-color: beige;
+    font-size: auto;
+}
+table{
+    padding-left: 50px;
+    font-size: 20px;
+}
+thead, th{
+    background-color: black;
+    color: rgb(158, 26, 26);
+    font-size: auto;
+}
+h1{
+    background-color: rgb(114, 113, 113);
+    text-align: center;
+    font-size: 25px;
+}
+.custom{
+display: flex;
+}
+.custom img{
+    padding: 2cm;
+}
+p{
+    text-align: center;
+}
+.all{
+    width: 1000px;
+    padding-left: 3cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
